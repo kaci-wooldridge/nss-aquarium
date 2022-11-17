@@ -1,0 +1,51 @@
+.page-header{
+    display: flex;
+    border: 5px solid #000;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.martins-fish-info{
+    display: flex;
+}
+
+.column-left{
+    border: 5px solid rgb(138, 231, 183);
+    width: 70%;
+    padding: 5px;
+    margin-right: 5px;
+    margin-bottom:auto;
+}
+
+.section-header{
+    
+    padding: 5px
+    
+}
+
+.fish-list{
+    margin: ;
+
+}
+
+
+.topic{
+    border: 2px solid black;
+    margin: 2px 2px
+}
+
+
+
+
+.column-right{
+    border: 5px solid rgb(101, 162, 232);
+    width: 30%;
+    padding: 5px ;
+    margin-bottom: auto;
+}
+
+.tips{
+    border: 2px solid black;
+    margin: 2px 2px;
+    
+}
